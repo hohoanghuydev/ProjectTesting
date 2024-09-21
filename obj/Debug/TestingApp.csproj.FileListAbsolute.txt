@@ -1,0 +1,16 @@
+D:\HocKy7\test\TestingApp\bin\Debug\TestingApp.exe.config
+D:\HocKy7\test\TestingApp\bin\Debug\TestingApp.exe
+D:\HocKy7\test\TestingApp\bin\Debug\TestingApp.pdb
+D:\HocKy7\test\TestingApp\bin\Debug\MyControls.dll
+D:\HocKy7\test\TestingApp\bin\Debug\MyLibraries.dll
+D:\HocKy7\test\TestingApp\bin\Debug\MyControls.pdb
+D:\HocKy7\test\TestingApp\bin\Debug\MyLibraries.pdb
+D:\HocKy7\test\TestingApp\obj\Debug\TestingApp.csproj.AssemblyReference.cache
+D:\HocKy7\test\TestingApp\obj\Debug\TestingApp.FormLogin.resources
+D:\HocKy7\test\TestingApp\obj\Debug\TestingApp.FormMain.resources
+D:\HocKy7\test\TestingApp\obj\Debug\TestingApp.Properties.Resources.resources
+D:\HocKy7\test\TestingApp\obj\Debug\TestingApp.csproj.GenerateResource.cache
+D:\HocKy7\test\TestingApp\obj\Debug\TestingApp.csproj.CoreCompileInputs.cache
+D:\HocKy7\test\TestingApp\obj\Debug\TestingApp.csproj.Up2Date
+D:\HocKy7\test\TestingApp\obj\Debug\TestingApp.exe
+D:\HocKy7\test\TestingApp\obj\Debug\TestingApp.pdb
