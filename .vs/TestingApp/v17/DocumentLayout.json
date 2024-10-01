@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HocKy7\\test\\TestingApp\\",
+  "WorkspaceRootPath": "D:\\HocKy7\\TestingApp\\ProjectTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CA75C69-3F3E-41B9-B34A-31A460CCA739}|TestingApp.csproj|d:\\hocky7\\test\\testingapp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CA75C69-3F3E-41B9-B34A-31A460CCA739}|TestingApp.csproj|d:\\hocky7\\testingapp\\projecttesting\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CA75C69-3F3E-41B9-B34A-31A460CCA739}|TestingApp.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormMain.cs",
-              "DocumentMoniker": "D:\\HocKy7\\test\\TestingApp\\FormMain.cs",
+              "DocumentMoniker": "D:\\HocKy7\\TestingApp\\ProjectTesting\\FormMain.cs",
               "RelativeDocumentMoniker": "FormMain.cs",
-              "ToolTip": "D:\\HocKy7\\test\\TestingApp\\FormMain.cs",
+              "ToolTip": "D:\\HocKy7\\TestingApp\\ProjectTesting\\FormMain.cs",
               "RelativeToolTip": "FormMain.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
